@@ -1,0 +1,74 @@
+html{
+    background-color: #aaa;
+    font-family: serif;
+}
+
+.tudo{
+    margin: 30px;
+    padding: 3px 0;
+    position: relative;
+}
+
+
+.titulo-1{
+    color: purple;
+    text-align: center;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.imagens{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+.sobre-banda{
+    border-bottom: 1px dashed #aaa;
+    border-top: 1px dashed #aaa;
+    font-size: 25px;
+}
+
+.bold  {
+    font-weight: bold;
+}
+
+.bold-sublinhado-alto{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.sobre-banda li{
+    font-weight: bold;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.sobre-banda figcaption
+{
+    font-size: 20px;
+}
+
+.link-sobre-mim,
+.link-sobre-Escape-The-Fate{
+    width: 100px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: #ffdab9;
+    color: #fff;
+    position: fixed; 
+    text-align: center;
+}
+
+.link-sobre-mim{
+    right: 210px;
+    top: 30px;
+}
+
+.link-sobre-Escape-The-Fate{
+    right: 100px;
+    top: 30px
+}
+
+
